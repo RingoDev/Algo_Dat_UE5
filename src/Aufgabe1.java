@@ -181,7 +181,6 @@ public class Aufgabe1 {
     }
 
     static void tspNearestNeighbourSimpleSolution() {
-
         reset();
         System.out.println("\n===================================================================================\n");
         System.out.println("Fahrt zur jeweils nächstgelegenen Gemeinde beginnend mit Alkhoven:\n");
